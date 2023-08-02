@@ -1,9 +1,9 @@
 ## Stories
 Load stories by punching the ground with a written book.
 
-![](https://imgur.com/a/OOjaQb2)
+![](https://i.imgur.com/ve6n7LO.png)
 
-![](https://imgur.com/a/nB4q0Ss)
+![]([https://i.imgur.com/KF4uam9.png)
 
 [![](https://poggit.pmmp.io/shield.state/Stories)](https://poggit.pmmp.io/p/Stories)
 
