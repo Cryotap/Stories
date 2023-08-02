@@ -1,0 +1,6 @@
+name: Stories
+version: 1.0
+api: [5.0.0]
+main: Cryotap\Stories\Main
+author: Cryotap
+description: Loads a new story when a player hit the ground with a book.
