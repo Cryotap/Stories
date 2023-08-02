@@ -1,6 +1,6 @@
 name: Stories
 version: 1.0
-api: [5.0.0]
+api: [5.3.0]
 main: Cryotap\Stories\Main
 author: Cryotap
-description: Loads a new story when a player hit the ground with a book.
+description: Opens up a story when a player uses a book while facing on the ground.
